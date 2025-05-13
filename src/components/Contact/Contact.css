@@ -1,0 +1,14 @@
+.contact-section {
+  color: #212529;
+}
+
+form.bg-light {
+  background-color: #f8f9fa;
+}
+
+form label {
+  display: block;
+  text-align: left;
+  font-weight: 600;
+  margin-bottom: 6px;
+}

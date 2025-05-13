@@ -1,0 +1,14 @@
+.testimonial-card {
+  background-color: #f8f9fa;
+  color: #212529;
+}
+
+.testimonial-quote {
+  font-size: 32px;
+  color: #198754;
+}
+
+.testimonial-text {
+  font-style: italic;
+  font-size: 17.6px;
+}

@@ -4,7 +4,7 @@ A sleek, responsive landing page for a platform that helps users **resell unused
 
 ## Demo
 
-Insert gif or link to demo
+(https://softsell-azrasiddique.netlify.app/)
 
 ## Features
 
